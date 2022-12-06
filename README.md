@@ -1,2 +1,2 @@
 # Hello-recruiters
-My first repository on GitHub
+My first SQL Project
